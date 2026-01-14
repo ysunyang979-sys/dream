@@ -1,0 +1,5 @@
+{
+  "name": "AI Dream Weaver",
+  "description": "An application that uses generative AI to interpret your dreams, creating a unique color palette, a short story, and a surreal image based on your description.",
+  "requestFramePermissions": []
+}
